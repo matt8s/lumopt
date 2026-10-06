@@ -22,13 +22,13 @@ Running a prebuilt optimization: a 2D Silicon Photonics Waveguide Y-branch
 My favorite way of running optimizations is from a jupyter notebook, that way, you can inspect the results in detail after
 the optimization, keep a record of the results, or debug the optimization if need be.
 
-In that case just copy the contents of `examples/splitter/splitter_opt.py` into a notebook and run it.
+In that case just copy the contents of `examples/Ysplitter/splitter_opt_2D.py` into a notebook and run it.
 
 From the terminal:
 
 .. code-block:: bash
 
-    cd examples/splitter
+    cd examples/Ysplitter
     python splitter_opt_2D.py
 
 Or run the file from your favorite IDE.
