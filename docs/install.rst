@@ -11,7 +11,7 @@ Choose your install directory and run
 .. code-block:: bash
 
     git clone https://github.com/chriskeraly/LumOpt.git
-    python setup.py -develop
+    python -m pip install --editable .
 
 You will need to add the Lumerical API `lumapi` to your Python path.
 
